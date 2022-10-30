@@ -1,0 +1,15 @@
+I have learned below commands:
+ apt-get install git
+ git init
+ git checkout -b "branhname"
+ git switch
+ git status
+ git branch
+ git add "filename"
+ git commit -m "filename"
+ git restore --staged "filename"
+ git pull origin "branch name"
+ git pull origin "branch name"
+ git fetch
+ git log --oneline
+ git cherry-pick "commit hash name"
